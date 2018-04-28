@@ -1,0 +1,33 @@
+19 MaxProductSubarray2
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+61 3
+5
+6 -3 -10 0 2
+6
+2 3 4 5 -1 0 
+10
+8 -2 -2 0 8 0 -6 -8 -6 -1
+11 180
+120
+288
+1
+12 src/main/gfg
+16 -Xmx256m -Xss64m
+4 Main
+28 main.gfg.MaxProductSubarray2
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2018.04.22
+0 
+1
+18 lib.io.InputReader
+19 java.io.PrintWriter
+0
+0

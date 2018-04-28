@@ -1,0 +1,2 @@
+37 src/main/gfg/MaxProductSubarray2.task
+0
