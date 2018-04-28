@@ -1,7 +1,8 @@
 .DS_Store
-.idea
 *.iml
 *.log
+*.txt
 out
+.idea/*
 !.idea/runConfigurations
 src/Main.java

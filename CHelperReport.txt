@@ -1,2 +1,2 @@
-37 src/main/gfg/MaxProductSubarray2.task
+30 src/main/leetcode/Task771.task
 0
