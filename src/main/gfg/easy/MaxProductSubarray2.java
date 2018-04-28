@@ -6,6 +6,7 @@ import java.io.PrintWriter;
 /**
  * Given an array that contains both positive and negative integers,
  * find the product of the maximum product subarray.
+ *
  * @link https://practice.geeksforgeeks.org/problems/maximum-product-subarray/0
  * @company Morgan-Stanley
  * @company Microsoft

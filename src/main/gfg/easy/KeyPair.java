@@ -24,7 +24,7 @@ public class KeyPair {
         Arrays.sort(arr);
         int l = 0, h = n - 1;
         boolean found = false;
-        while (l <= h) {
+        while (l < h) {
             int curSum = arr[l] + arr[h];
             if (curSum == sum) {
                 found = true;

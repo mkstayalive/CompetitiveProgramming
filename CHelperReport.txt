@@ -1,2 +1,2 @@
-30 src/main/gfg/easy/KeyPair.task
+42 src/main/gfg/medium/TripletSumInArray.task
 0

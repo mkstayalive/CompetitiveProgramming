@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TripletSumInArray" type="Task" factoryName="Task">
+    <taskConf>src/main/gfg/medium/TripletSumInArray.task</taskConf>
+    <method />
+  </configuration>
+</component>
