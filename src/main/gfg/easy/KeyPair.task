@@ -1,0 +1,30 @@
+7 KeyPair
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+35 2
+6 16
+1 4 45 6 10 8
+5 10
+1 2 4 3 6
+7 Yes
+Yes
+1
+17 src/main/gfg/easy
+16 -Xmx256m -Xss64m
+4 Main
+21 main.gfg.easy.KeyPair
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2018.04.28
+0 
+1
+18 lib.io.InputReader
+19 java.io.PrintWriter
+0
+0

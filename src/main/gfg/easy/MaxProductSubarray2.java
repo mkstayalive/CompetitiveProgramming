@@ -1,12 +1,17 @@
-package main.gfg;
+package main.gfg.easy;
 
 import lib.io.InputReader;
 import java.io.PrintWriter;
 
 /**
+ * Given an array that contains both positive and negative integers,
+ * find the product of the maximum product subarray.
  * @link https://practice.geeksforgeeks.org/problems/maximum-product-subarray/0
+ * @company Morgan-Stanley
+ * @company Microsoft
+ * @company Amazon
  */
-public class MaxProductSubarray {
+public class MaxProductSubarray2 {
     public void solve(int testNumber, InputReader in, PrintWriter out) {
         int n = in.nextInt();
         int arr[] = new int[n];

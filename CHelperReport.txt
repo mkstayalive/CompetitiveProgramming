@@ -1,2 +1,2 @@
-30 src/main/leetcode/Task771.task
+30 src/main/gfg/easy/KeyPair.task
 0
