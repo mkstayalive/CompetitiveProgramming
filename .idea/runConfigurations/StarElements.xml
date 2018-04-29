@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="StarElements" type="Task" factoryName="Task">
+    <taskConf>src/main/gfg/easy/StarElements.task</taskConf>
+    <method />
+  </configuration>
+</component>

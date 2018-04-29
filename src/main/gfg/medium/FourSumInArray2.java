@@ -1,6 +1,6 @@
 package main.gfg.medium;
 
-import lib.io.Debug;
+import lib.utils.io.PrintUtils;
 import lib.io.InputReader;
 
 import java.io.PrintWriter;
@@ -33,7 +33,7 @@ public class FourSumInArray2 {
             }
         }
         sumList.sort(Comparator.comparingInt(a -> a.val));
-        Debug.print(sumList, x -> ((Node) x).val);
+        PrintUtils.debug(sumList, x -> ((Node) x).val);
         int l = 0;
         int h = sumList.size() - 1;
         TreeSet<ArrayList<Integer>> foundSet = new TreeSet<>((a, b) -> {
