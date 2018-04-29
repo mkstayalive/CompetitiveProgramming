@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TripletSumSmallerThanX" type="Task" factoryName="Task">
+    <taskConf>src/main/gfg/basic/TripletSumSmallerThanX.task</taskConf>
+    <method />
+  </configuration>
+</component>

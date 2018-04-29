@@ -1,2 +1,0 @@
-42 src/main/gfg/medium/TripletSumInArray.task
-0

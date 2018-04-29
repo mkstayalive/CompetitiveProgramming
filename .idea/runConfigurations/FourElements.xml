@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="FourElements" type="Task" factoryName="Task">
+    <taskConf>src/main/gfg/easy/FourElements.task</taskConf>
+    <method />
+  </configuration>
+</component>

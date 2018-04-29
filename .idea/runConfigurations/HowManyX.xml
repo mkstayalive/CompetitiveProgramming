@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="HowManyX" type="Task" factoryName="Task">
+    <taskConf>src/main/gfg/easy/HowManyX.task</taskConf>
+    <method />
+  </configuration>
+</component>

@@ -1,0 +1,30 @@
+22 TripletSumSmallerThanX
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+29 2
+4 2
+-2 0 1 3
+5 12
+5 1 4 3 7
+3 2
+4
+1
+18 src/main/gfg/basic
+16 -Xmx256m -Xss64m
+4 Main
+37 main.gfg.basic.TripletSumSmallerThanX
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2018.04.29
+0 
+1
+18 lib.io.InputReader
+19 java.io.PrintWriter
+0
+0

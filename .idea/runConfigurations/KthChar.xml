@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="KthChar" type="Task" factoryName="Task">
+    <taskConf>src/main/gfg/basic/KthChar.task</taskConf>
+    <method />
+  </configuration>
+</component>

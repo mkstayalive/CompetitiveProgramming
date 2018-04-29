@@ -1,0 +1,45 @@
+8 HowManyX
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+56 5
+3
+100 250
+2
+10000 12345
+0
+20 21
+9
+899 1000
+1
+1100 1345
+17 35
+1120
+0
+120
+398
+1
+1
+12 1
+9
+997 1000
+1 5
+1
+17 src/main/gfg/easy
+16 -Xmx256m -Xss64m
+4 Main
+22 main.gfg.easy.HowManyX
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2018.04.28
+0 
+1
+18 lib.io.InputReader
+19 java.io.PrintWriter
+0
+0

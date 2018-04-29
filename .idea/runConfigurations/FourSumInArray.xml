@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="FourSumInArray" type="Task" factoryName="Task">
+    <taskConf>src/main/gfg/medium/FourSumInArray.task</taskConf>
+    <method />
+  </configuration>
+</component>

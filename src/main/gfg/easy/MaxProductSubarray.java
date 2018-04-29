@@ -33,7 +33,6 @@ public class MaxProductSubarray {
                 curMax = Math.max(arr[i], prevMin * arr[i]);
                 curMin = Math.min(arr[i], prevMax * arr[i]);
             }
-            System.err.println(arr[i] + ": " + curMin + ", " + curMax);
             res = Math.max(res, curMax);
         }
         out.println(res);
