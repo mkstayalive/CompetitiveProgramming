@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="MaxProductSubarray2" type="Task" factoryName="Task">
-    <taskConf>src/main/gfg/MaxProductSubarray2.task</taskConf>
+    <taskConf />
     <method />
   </configuration>
 </component>
