@@ -4,8 +4,7 @@ package lib.algo.maths;
  * @author Manish Singh
  */
 public class Combination {
-
-    public long ncr(int n, int r) {
+    public static long ncr(int n, int r) {
         if (n < r) {
             return 0;
         }
