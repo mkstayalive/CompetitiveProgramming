@@ -1,0 +1,30 @@
+13 IndexOfFirst1
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+34 2
+10
+0 0 0 0 0 0 1 1 1 1
+4
+0 0 0 0
+4 6
+-1
+1
+18 src/main/gfg/basic
+16 -Xmx256m -Xss64m
+4 Main
+28 main.gfg.basic.IndexOfFirst1
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2018.04.29
+0 
+1
+18 lib.io.InputReader
+19 java.io.PrintWriter
+0
+0

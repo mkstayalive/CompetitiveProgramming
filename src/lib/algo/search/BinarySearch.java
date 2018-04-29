@@ -4,12 +4,12 @@ package lib.algo.search;
  * @author Manish Singh
  */
 public class BinarySearch {
-    static <T extends Comparable<T>> int upperBound(T a[], int n, T x) {
+    public static <T extends Comparable<T>> int upperBound(T arr[], T x) {
         int l = 0;
-        int h = n;
+        int h = arr.length;
         while (l < h) {
             int mid = (l + h) / 2;
-            if (x.compareTo(a[mid]) >= 0) {
+            if (x.compareTo(arr[mid]) >= 0) {
                 l = mid + 1;
             } else {
                 h = mid;
@@ -18,12 +18,12 @@ public class BinarySearch {
         return l;
     }
 
-    static <T extends Comparable<T>> int lowerBound(T a[], int n, T x) {
+    public static <T extends Comparable<T>> int lowerBound(T arr[], T x) {
         int l = 0;
-        int h = n;
+        int h = arr.length;
         while (l < h) {
             int mid = (l + h) / 2;
-            if (x.compareTo(a[mid]) <= 0) {
+            if (x.compareTo(arr[mid]) <= 0) {
                 h = mid;
             } else {
                 l = mid + 1;
@@ -32,12 +32,12 @@ public class BinarySearch {
         return l;
     }
 
-    static int upperBound(int a[], int n, int x) {
+    public static int upperBound(int arr[], int x) {
         int l = 0;
-        int h = n;
+        int h = arr.length;
         while (l < h) {
             int mid = (l + h) / 2;
-            if (x >= a[mid]) {
+            if (x >= arr[mid]) {
                 l = mid + 1;
             } else {
                 h = mid;
@@ -46,12 +46,12 @@ public class BinarySearch {
         return l;
     }
 
-    static int lowerBound(int a[], int n, int x) {
+    public static int lowerBound(int arr[], int x) {
         int l = 0;
-        int h = n;
+        int h = arr.length;
         while (l < h) {
             int mid = (l + h) / 2;
-            if (x <= a[mid]) {
+            if (x <= arr[mid]) {
                 h = mid;
             } else {
                 l = mid + 1;
