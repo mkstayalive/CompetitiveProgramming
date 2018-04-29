@@ -3,7 +3,7 @@ package lib.utils.bits;
 /**
  * @author Manish Singh
  */
-public class BitManipUtils {
+public class BitUtils {
 
     public static String numberToBinary(long x) {
         if (x < 0) throw new IllegalArgumentException();

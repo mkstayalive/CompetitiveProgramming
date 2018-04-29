@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="PrimeSetBits" type="Task" factoryName="Task">
+    <taskConf>src/main/gfg/easy/PrimeSetBits.task</taskConf>
+    <method />
+  </configuration>
+</component>

@@ -1,18 +1,25 @@
-7 Task771
-6 SINGLE
+12 PrimeSetBits
+12 MULTI_NUMBER
 8 STANDARD
 9 input.txt
 8 STANDARD
 10 output.txt
+1
 0
-17 src/main/leetcode
+13 2
+6 10
+10 15 
+3 4
+5
+1
+17 src/main/gfg/easy
 16 -Xmx256m -Xss64m
 4 Main
-32 main.gfg.easy.MaxProductSubarray
+26 main.gfg.easy.PrimeSetBits
 39 net.egork.chelper.checkers.TokenChecker
 0 
 0
-10 2018.04.28
+10 2018.04.29
 0 
 1
 18 lib.io.InputReader

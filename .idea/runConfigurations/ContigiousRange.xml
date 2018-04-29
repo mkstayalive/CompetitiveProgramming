@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ContigiousRange" type="Task" factoryName="Task">
+    <taskConf>src/main/gfg/easy/ContigiousRange.task</taskConf>
+    <method />
+  </configuration>
+</component>

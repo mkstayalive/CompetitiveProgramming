@@ -1,0 +1,44 @@
+29 NonOverlappingSubarrayWithMax
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+67 3
+9 
+2 1 4 9 2 3 8 3 4
+4
+7
+1 2 3 2 3 4 1
+4
+10
+4 5 7 1 2 9 8 4 3 1
+4
+6 5
+7
+4
+
+1
+1
+253 1
+64
+387 132 773 774 263 891 16 657 402 3 148 405 150 791 152 25 282 283 158 31 432 930 411 549 170 811 48 946 821 694 823 57 954 991 572 190 191 323 74 183 482 78 207 11 337 210 84 902 600 477 293 165 226 611 744 748 621 625 754 447 120 635 124 510
+954
+2 33
+1
+17 src/main/gfg/easy
+16 -Xmx256m -Xss64m
+4 Main
+43 main.gfg.easy.NonOverlappingSubarrayWithMax
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2018.04.29
+0 
+1
+18 lib.io.InputReader
+19 java.io.PrintWriter
+0
+0

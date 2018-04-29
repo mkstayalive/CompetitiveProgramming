@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="NonOverlappingSubarrayWithMax" type="Task" factoryName="Task">
+    <taskConf>src/main/gfg/easy/NonOverlappingSubarrayWithMax.task</taskConf>
+    <method />
+  </configuration>
+</component>

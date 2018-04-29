@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ChocolateStation" type="Task" factoryName="Task">
+    <taskConf>src/main/gfg/easy/ChocolateStation.task</taskConf>
+    <method />
+  </configuration>
+</component>

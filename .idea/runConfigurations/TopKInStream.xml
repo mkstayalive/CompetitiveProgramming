@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TopKInStream" type="Task" factoryName="Task">
+    <taskConf>src/main/gfg/easy/TopKInStream.task</taskConf>
+    <method />
+  </configuration>
+</component>

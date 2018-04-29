@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="PairPosNeg" type="Task" factoryName="Task">
+    <taskConf>src/main/gfg/easy/PairPosNeg.task</taskConf>
+    <method />
+  </configuration>
+</component>
