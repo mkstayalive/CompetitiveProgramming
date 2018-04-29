@@ -1,9 +1,9 @@
-package lib.algo.maths;
+package lib.utils.maths;
 
 /**
  * @author Manish Singh
  */
-public class Permutation {
+public class PermutationUtils {
 
     public long npr(int n, int r) {
         if (n < r) {

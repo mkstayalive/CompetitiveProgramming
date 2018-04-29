@@ -1,9 +1,9 @@
-package lib.algo.bits;
+package lib.utils.bits;
 
 /**
  * @author Manish Singh
  */
-public class BitManip {
+public class BitManipUtils {
 
     public static String numberToBinary(long x) {
         if (x < 0) throw new IllegalArgumentException();

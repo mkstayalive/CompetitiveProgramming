@@ -6,6 +6,9 @@ import net.egork.chelper.tester.TestCase;
 import java.util.Collection;
 import java.util.Collections;
 
+/**
+ * @author Manish Singh
+ */
 public class %TestCaseClass% {
     @TestCase
     public Collection<NewTopCoderTest> createTests() {

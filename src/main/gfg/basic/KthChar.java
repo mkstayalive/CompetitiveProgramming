@@ -1,6 +1,6 @@
 package main.gfg.basic;
 
-import lib.algo.bits.BitManip;
+import lib.utils.bits.BitManipUtils;
 import lib.io.InputReader;
 import java.io.PrintWriter;
 
@@ -17,7 +17,7 @@ public class KthChar {
         int num = in.nextInt();
         int k = in.nextInt();
         int n = in.nextInt();
-        String binary = BitManip.numberToBinary(num);
+        String binary = BitManipUtils.numberToBinary(num);
         for (int i = 0; i < n; i++) {
             binary = transform(binary);
         }

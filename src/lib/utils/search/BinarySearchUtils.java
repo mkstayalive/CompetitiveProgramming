@@ -1,9 +1,9 @@
-package lib.algo.search;
+package lib.utils.search;
 
 /**
  * @author Manish Singh
  */
-public class BinarySearch {
+public class BinarySearchUtils {
     public static <T extends Comparable<T>> int upperBound(T arr[], T x) {
         int l = 0;
         int h = arr.length;

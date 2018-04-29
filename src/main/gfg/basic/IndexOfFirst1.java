@@ -1,6 +1,6 @@
 package main.gfg.basic;
 
-import lib.algo.search.BinarySearch;
+import lib.utils.search.BinarySearchUtils;
 import lib.io.InputReader;
 import java.io.PrintWriter;
 
@@ -18,7 +18,7 @@ public class IndexOfFirst1 {
         for (int i = 0; i < n; i++) {
             arr[i] = in.nextInt();
         }
-        int pos = BinarySearch.lowerBound(arr, 1);
+        int pos = BinarySearchUtils.lowerBound(arr, 1);
         if (pos == arr.length) {
             out.println("-1");
         } else {
