@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="FillArray1" type="Task" factoryName="Task">
+    <taskConf>src/main/gfg/basic/FillArray1.task</taskConf>
+    <method />
+  </configuration>
+</component>

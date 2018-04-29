@@ -3,7 +3,7 @@ package lib.algo.string;
 /**
  * @author Manish Singh
  */
-public class Palindrome {
+public class PalindromeUtils {
 
     public static boolean isPalindrome(String s) {
         int len = s.length();
