@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SticklerThief" type="Task" factoryName="Task">
+    <taskConf>src/main/gfg/easy/SticklerThief.task</taskConf>
+    <method />
+  </configuration>
+</component>
